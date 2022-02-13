@@ -2,7 +2,7 @@
 
 ### Welcome to my Portfolio.
 
-Hi, im Leandro and this is my Portfolio made with React, thanks for stopping by, I hope you enjoy the trip.
+Hi, I'm Leandro and this is my Portfolio made with React, thanks for stopping by, I hope you enjoy the trip.
 
 
 ### Github Pages
