@@ -1,10 +1,21 @@
-# React-Portfolio
+<h1 align="center">  Portfolio React </h1>
 
-### Welcome to my Portfolio.
+<h2 align="center"> Welcome to my Portfolio :wave: <h2>
 
-Hi, I'm Leandro and this is my Portfolio made with React, thanks for stopping by, I hope you enjoy the trip.
+<br>
 
+<p align="center">
 
-### Github Pages
+<img width="700" alt="React" src="https://www.arsys.es/blog/file/uploads/2017/04/React.jpg">
 
-You can see it working at https://lpedicino.github.io/React-Portfolio/
+</p>
+
+<h4 align="center"> Hi, I'm Leandro and here is my Portfolio made with React, <br> I did it during a React course as a final project. <br> thanks for stopping by, I hope you enjoy it. <br> </h4>
+
+<br>
+
+<span align="center">
+
+##### :point_right: You can see it deployed at [Portfolio](https://lpedicino.github.io/React-Portfolio/)
+
+</span>
